@@ -55,7 +55,7 @@ public class CalculatePrimeNumber
                 else
                 {
                     // Not a prime number
-//                    System.out.println(x + " is not a prime number");
+//                    System.out.println(x + " is not a prime number!");
                 }
             }
             else
